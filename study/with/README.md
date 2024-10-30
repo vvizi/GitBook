@@ -1,8 +1,5 @@
----
-description: 2024.05.08 ~2024.08.07
-cover: ../../.gitbook/assets/Frame 4 (1).png
-coverY: 0
----
+![image](https://github.com/user-attachments/assets/5177beab-9e77-4f9e-bade-2e810a01d9fe)
+
 
 # 우아한 타입 스크립트 with 리액트
 
