@@ -1,22 +1,5 @@
----
-icon: hand-wave
-cover: .gitbook/assets/Frame 3 (1).png
-coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
+
+![Gitbook](https://github.com/user-attachments/assets/898d3f61-1e61-4eef-9b3f-34ccbc2eba88)
 
 # Welcome
 
