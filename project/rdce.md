@@ -2,9 +2,11 @@
 description: 2022.08~2022.09
 ---
 
-# 탄소 절감을 위한 메일 솔루션 웹 서비스
+# 탄소 절감을 위한 메일 솔루션 RDCE 웹 서비스
 
 ### **Description.** <a href="#description" id="description"></a>
+
+> 환경부/한국환경산업기술원 환경데이터 활용 아이디어 공모전
 
 디지털 탄소 배출 절감을 위한 AI 기반 데이터 분석 Dashboard ([URL](https://noseaj.github.io/DCE\_FrontEnd/))
 
