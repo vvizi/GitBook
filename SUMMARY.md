@@ -18,7 +18,8 @@
 ***
 
 * [PROJECT](project/README.md)
-  * [UNTACT SPOT](project/untact-spot.md)
+  * [코로나 블루 해소를 위한 UNTACT SPOT 모바일 웹](project/untact-spot.md)
+  * [탄소 절감을 위한 메일 솔루션 웹 서비스](project/undefined.md)
 * [STUDY](study/README.md)
   * [우아한 타입 스크립트 with 리액트](study/with/README.md)
     * [Chapter 1](study/with/chapter-1.md)
