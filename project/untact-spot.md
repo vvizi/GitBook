@@ -20,6 +20,13 @@ description: 2020.10~2020.12
 
 **Skills Used :** `TypeScript` `React` `CSS` `Figma`
 
+
+
+### Goals
+
+1. **직관적인 정보 탐색**을 목표로 사용자가 필요한 장소를 쉽게 찾을 수 있도록 한다.
+2. **필터링 기능**과 **실시간 안전도 평가**를 적용해 신뢰할 수 있는 정보를 제공할 수 있다.
+
 <figure><img src="../.gitbook/assets/UntactSpot-Goals.png" alt=""><figcaption></figcaption></figure>
 
 ### **Concept.**
