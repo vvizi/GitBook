@@ -17,7 +17,8 @@
 
 ***
 
-* [PROJECT](project.md)
+* [PROJECT](project/README.md)
+  * [UNTACT SPOT](project/untact-spot.md)
 * [STUDY](study/README.md)
   * [우아한 타입 스크립트 with 리액트](study/with/README.md)
     * [Chapter 1](study/with/chapter-1.md)
