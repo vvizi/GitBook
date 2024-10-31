@@ -14,4 +14,4 @@ coverY: 0
 
 #### Jump right in
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>STUDY</strong></td><td></td><td></td><td></td><td><a href="broken-reference/">broken-reference</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>STUDY</strong></td><td></td><td></td><td></td><td><a href="broken-reference/">broken-reference</a></td></tr><tr><td><strong>PROJECT</strong></td><td></td><td></td><td></td><td></td></tr></tbody></table>
