@@ -14,7 +14,10 @@
 * [Interactive blocks](basic/interactive-blocks.md)
 * [OpenAPI](basic/openapi.md)
 * [Integrations](basic/integrations.md)
-* [Page 1](basic/page-1.md)
+
+***
+
+* [PROJECT](project.md)
 
 ## Study
 
