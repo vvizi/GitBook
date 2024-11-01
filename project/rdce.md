@@ -16,7 +16,7 @@ description: 2022.08~2022.09
 
 **Contribution :** 40%
 
-**Skills Used :** `TypeScript` `React` `CSS`
+**Skills Used :** `TypeScript` `React` `CSS` `Chart.js`
 
 
 
