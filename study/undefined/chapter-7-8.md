@@ -65,7 +65,7 @@ every() : 배열의 모든 요소가 함수를 통과하는지 테스트
 
           * 접근 제한자를 생략한 클래스 프로퍼티와 메서드는 `public`이 선언된다.
 
-          <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+          <figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
           * 참고 : private 메서드가 많으면 책임이 많아짐. → 책임이 다른 클래스로 분리
 * 응집도가 높은 구조(데이터와 논리를 한 곳에 모은 구조)

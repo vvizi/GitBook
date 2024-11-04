@@ -6,7 +6,7 @@ description: 2024.06 - 2024.10
 
 ### **Description**
 
-디자인팀의 GUI 가이드를 기반으로, 다양한 **공용 UI 컴포넌트**(dialog, dropdown 등 28종)를 클린 코드와 웹 접근성을 고려해 **재사용 가능한 구조로 개발**했습니다.
+디자인팀의 GUI 가이드를 기반으로, 다양한 **공용 UI 컴포넌트**(dialog, dropdown 등 **28종**)를 클린 코드와 웹 접근성을 고려해 **재사용 가능한 구조로 개발**했습니다.
 
 * **사업명** : Tmax Gaia
 * **고객사** : 사내 계열사
@@ -28,17 +28,40 @@ description: 2024.06 - 2024.10
 
 **설계** : 컴포넌트 구조화
 
-기능을 분리할 수 있는 구조로 쪼개어 구조를 체계적으로 구성했습니다.
+**단일 책임 원칙**을 적용하여, 기능을 분리하고 체계적인 구조로 컴포넌트를 구성했습니다.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
-**Code Base** : 웹 접근성과 웹 표준을 준수하며 비즈니스 로직과 UI 로직을 분리하였습니다.
+**Code Base1** : **웹 접근성**과 **웹 표준**을 준수하였습니다.
 
 <figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
+**CodeBase2** :  **비즈니스 로직과 UI 로직을 분리**하였습니다.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Notification의 비즈니스 로직 NotificationContainer</p></figcaption></figure>
+
+**CodeBase3 :** `will-change: transform, opacity;` 속성으로 성능을 최적화하고, `@mixin`으로 스타일 재사용성을 높였습니다
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Notification.scss</p></figcaption></figure>
 
 
 
+**협업 도구** : 협업을 위한 **사용 가이드** 및 **StoryBook**을 작성하여 팀에 공유하고 안내했습니다.
 
+문서화로 컴포넌트를 테스트하고 협업 환경을 개선할 수 있었습니다.
+
+
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>GitLab Wiki</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>StoryBook</p></figcaption></figure>
+
+### Result.
+
+> 프로덕션에 적용된 컴포넌트 영상
+
+{% file src="../.gitbook/assets/notification.mp4" %}
+
+{% file src="../.gitbook/assets/switch.mp4" %}
