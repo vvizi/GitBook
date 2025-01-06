@@ -1,4 +1,5 @@
 ---
+description: 2024.05.13 ~ 2024.08.01
 cover: ../../.gitbook/assets/Frame 4 (1).png
 coverY: 0
 ---
