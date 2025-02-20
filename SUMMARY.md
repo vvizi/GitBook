@@ -18,7 +18,7 @@
 ***
 
 * [WORK](work/README.md)
-  * [공용 UI Component](work/ui-component.md)
+  * [디자인 시스템 기반 공통 UI 컴포넌트 라이브러리 구축](work/ui-component.md)
 * [PROJECT](project/README.md)
   * [코로나 블루 해소를 위한 UNTACT SPOT 모바일 웹](project/untact-spot.md)
   * [탄소 절감을 위한 메일 솔루션 RDCE 웹 서비스](project/rdce.md)
